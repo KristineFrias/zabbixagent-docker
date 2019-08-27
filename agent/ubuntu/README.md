@@ -1,1 +1,0 @@
-zabbixagent-docker
